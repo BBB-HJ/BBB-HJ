@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hui Jeong Kim, just a student
+- 👋 Hi, I’m Hui Jeong Kim-student
 - 👀 I’m interested in 
 - 🌱 I’m currently learning python and SQL
 - 💞️ I’m looking to collaborate on ...
